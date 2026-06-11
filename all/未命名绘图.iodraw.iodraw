@@ -28,7 +28,7 @@
         <mxCell id="Zx6JZPmk5YLl_F-iVd_w-10" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="390" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Zx6JZPmk5YLl_F-iVd_w-12" value="？问题：&lt;div&gt;- Call LLM的目的是：加，平，移动SLTP&lt;/div&gt;&lt;div&gt;- 何时Call，逼近TP 70%? 逼近SL 70%, 更多时机？&lt;/div&gt;&lt;div&gt;-&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Zx6JZPmk5YLl_F-iVd_w-12" value="？问题：&lt;div&gt;- Call LLM的目的是：加，平，移动SLTP&lt;/div&gt;&lt;div&gt;- 何时Call，逼近TP 70%? 逼近SL 70%, 更多时机？&lt;/div&gt;&lt;div&gt;-&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="50" y="450" width="300" height="70" as="geometry" />
         </mxCell>
       </root>
