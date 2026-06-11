@@ -19,8 +19,17 @@
         <mxCell id="Zx6JZPmk5YLl_F-iVd_w-6" value="&lt;div&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;开仓决策&lt;/font&gt;&lt;/div&gt;每天固定触发N次分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="160" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Zx6JZPmk5YLl_F-iVd_w-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Zx6JZPmk5YLl_F-iVd_w-8" target="Zx6JZPmk5YLl_F-iVd_w-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Zx6JZPmk5YLl_F-iVd_w-8" value="LLM等待MT5 Call" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Zx6JZPmk5YLl_F-iVd_w-10" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Zx6JZPmk5YLl_F-iVd_w-12" value="？问题：&lt;div&gt;-触发几次？&lt;/div&gt;&lt;div&gt;-何时触发，应该在信号能充分判断趋势后&lt;/div&gt;&lt;div&gt;-&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="230" y="230" width="240" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
