@@ -49,7 +49,7 @@
         <mxCell id="Zx6JZPmk5YLl_F-iVd_w-18" value="？问题：&lt;div&gt;-哪些数据&lt;/div&gt;&lt;div&gt;--K线，指标&lt;/div&gt;&lt;div&gt;--新闻，事件&lt;/div&gt;&lt;div&gt;--舆论风向&lt;/div&gt;&lt;div&gt;--市场情绪&lt;/div&gt;&lt;div&gt;-如何高质量的获取这些数据？&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="540" y="230" width="180" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="Zx6JZPmk5YLl_F-iVd_w-19" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="Zx6JZPmk5YLl_F-iVd_w-19" value="IDLE/Add/Close/SLTP" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="740" y="160" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
