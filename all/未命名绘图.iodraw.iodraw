@@ -16,7 +16,7 @@
         <mxCell id="Zx6JZPmk5YLl_F-iVd_w-3" value="是否持仓" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="260" width="100" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Zx6JZPmk5YLl_F-iVd_w-6" value="每天固定触发N次分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Zx6JZPmk5YLl_F-iVd_w-6" value="&lt;div&gt;开仓决策&lt;/div&gt;每天固定触发N次分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="160" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
