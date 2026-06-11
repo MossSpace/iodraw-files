@@ -10,7 +10,7 @@
         <mxCell id="Zx6JZPmk5YLl_F-iVd_w-2" value="？问题：&lt;div&gt;-触发几次？&lt;/div&gt;&lt;div&gt;-何时触发，应该在信号能充分判断趋势后&lt;/div&gt;&lt;div&gt;-&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="460" y="475" width="240" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Zx6JZPmk5YLl_F-iVd_w-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Zx6JZPmk5YLl_F-iVd_w-3" target="Zx6JZPmk5YLl_F-iVd_w-6">
+        <mxCell id="Zx6JZPmk5YLl_F-iVd_w-7" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Zx6JZPmk5YLl_F-iVd_w-3" target="Zx6JZPmk5YLl_F-iVd_w-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Zx6JZPmk5YLl_F-iVd_w-3" value="是否持仓" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
